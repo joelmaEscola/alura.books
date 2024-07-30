@@ -25,13 +25,41 @@
 
 .card{
     background: var(--branco);
-    bow-shadow: 0px 4px 4px rgbá (0,0,0,0,0.25)
+    bow-shadow: 0px 4px 4px rgb (0,0,0,0,0.25)
     border-radius: 10px;
     margin: 1cm;
     padding: 1cm;
 }
-.card-descricao{
+.card-descricao {
     display: flex;
     justify-content: space-between;
     margin-bottom: 0.5em;
+}
+
+
+
+
+.card-botoes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.botoes {
+    display:flex;
+}
+
+.descricao-titulo {
+    color:var(--laranja);
+    font-weight: 700;
+}
+
+.descricao-titulo-livro {
+color:var(--azul);
+font-size: 18px;
+font-weight: 700;
+margin: 0.5em 0;
+}
+
+.descricao-texto {
+    font-size: 14px;
 }
