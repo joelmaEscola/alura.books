@@ -63,12 +63,13 @@ margin: 0.5em 0;
 .descricao-texto {
     font-size: 14px;
 }
+<<<<<<< HEAD
 
 
-.botoes__ancora {
+.botoes__ancora  {
     background-color: var(--laranja);
     padding: 1em 2.2em;
-    color: var(--branco)
+    color: var(--branco);
     font-weight: 700;
     text-decoration: none;
 }
@@ -83,4 +84,5 @@ hr {
 
 .rodape {
     background-color: var(--branco);
-    padding: 1em;}
+    padding: 1em;
+}
