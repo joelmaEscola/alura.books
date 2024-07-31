@@ -1,4 +1,4 @@
-.cabecalho_menu-hambuger {
+.cabecalho-menu-hambuger {
     width: 24px;
     height: 24px;
     display: inline-block;
@@ -20,7 +20,7 @@
     align-items: center;
 }
 
-.container__imagem {
+.container-imagem {
     padding: 1em;
 }
 
@@ -31,7 +31,7 @@ lista-menu{
     width: 60vw;
 }
 
-.container_botao:checked~,lista-menu{
+.container-botao:checked~,lista-menu{
     display: block;
 }
 
